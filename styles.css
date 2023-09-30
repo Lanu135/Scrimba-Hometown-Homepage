@@ -1,0 +1,102 @@
+/* CSS HEX
+--white: #ffffff;
+--dark-purple: #22192Fff;
+--raisin-black: #363244ff;
+*/
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Cinzel', serif;
+  background: #22192Fff;
+  color: #ffffff;
+  width: 720px;
+  margin: 0 auto;
+  font-size: 14px;
+  
+}
+
+#hero {
+  height: 343px;
+  background-image: url("images/hero.png");
+  background-size: cover;
+  text-shadow: 0px 0px 1px black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 10px 10px 0 0 ;
+}
+
+#activities {
+  padding-top: 10px;
+  background: #363244ff;
+  height: 378px;
+  border-radius: 0 0 10px 10px;
+
+}
+
+
+#activities-overview {
+  display: flex;
+  justify-content: space-evenly;
+ 
+}
+
+.activities-content {
+  width: 198px;
+  height: 227px;
+}
+
+.activities-img{
+  object-fit: cover;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 4px solid #22192Fff;
+}
+
+#guide {
+  padding: 23px 13px;
+  display: flex;
+  align-items: center;
+  width: 400px;
+  background-color: #363244ff ;
+  border-radius: 10px;
+  margin: 50px auto;
+}
+
+#guide-information {
+  border: 2px dashed #22192Fff;
+  border-radius: 10px;
+  width: 189px;
+}
+
+#bubble {
+  width: 150px;
+  height: 98px;
+  background-image: url("images/bubble.png");
+  background-size: cover;
+  font-size: 14px;
+  padding: 15px 5px 0 5px;
+  margin: 0 auto;
+  color: #000000ff;
+}
+
+#quirrel-img {
+  width: 180px;
+  margin: 0 auto;
+}
+
+#footer {
+  background-color: #363244ff;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  text-decoration: none;
+}
