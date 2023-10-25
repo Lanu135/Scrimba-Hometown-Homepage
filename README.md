@@ -1,7 +1,7 @@
 # Scrimba-Hometown-Homepage
 <a target="_blank" href="https://scrimba.com">Scrimba.com</a> Solo Project #1 Modul#2 (Web dev basics) of the Frontend Career Path
 
-<a target="_blank" href="https://lanu135.github.io/Scrimba-Hometown-Homepage/">Website</a>
+<a target="_blank" href="https://lanu135.github.io/scrimba-hometown-homepage/">Website</a>
 
 The requirments were the following
 
